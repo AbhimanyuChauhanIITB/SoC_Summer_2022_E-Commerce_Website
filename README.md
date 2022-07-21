@@ -28,4 +28,10 @@ E-Commerce Website Using Django Framework
 # Week 13
 1) Completed the Website
 
+Description of the folders
+
+1) The media folder contains images of the product to be displayed on the Home Page
+2) The shoppinglyx folder contains Django settings for the Project
+3) The app folder contains most of the necessary files used to make the website including the HTML template files, views, URLS (paths), models, forms, CSS files and the images etc.
+
 
